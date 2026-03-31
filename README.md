@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Taslim
-- 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently learning Data Structure And Algorithm 
-- 💞️ I’m looking to collaborate on projects related to ethical haking  and bug bounty
-- 📫 How to reach me- taslimbano324@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love skateboarding 🛹 
+👋 Hi, I’m @Taslim
+  
+🔭 Current Goal: GSoC 2026 Contributor for The Honeynet Project.
+
+⚡ Interests: Cybersecurity, Digital Logic Design (DLD), and Hardware Security.
+
+🧶 Hobbies: I enjoy crochet and planting—I love the process of building things from scratch, whether it's code or craft.
+
+🌱 Learning: Advanced Data Structures and the DICOM protocol for medical security.
+
+📫 Reach me: taslimbano324@gmail.com
 
 <!---
 Taslimrocks/Taslimrocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
